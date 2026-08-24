@@ -1,5 +1,5 @@
 # India-Thermal-Power-Plants-Daily-Coal-Inventory-Data-2018-2025-
-Here’s a polished **README.md** draft tailored to your Colab notebook on *India Thermal Power Plants Daily Coal Inventory (2018–2025)*. It captures the dataset 
+Here’s a polished **README.md** draft tailored to your Colab notebook on *India Thermal Power Plants Daily Coal Inventory (2018–2025)*. 
 
 ---
 
