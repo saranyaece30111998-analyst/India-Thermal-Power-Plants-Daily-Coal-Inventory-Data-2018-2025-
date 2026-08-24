@@ -93,5 +93,5 @@ plotly
 
 ---
 
-👉 This README is structured for GitHub or portfolio use. Would you like me to also create a **shorter executive summary version*
+👉 This README is structured for GitHub or portfolio use. Would you like me to also create a **shorter executive summary version
 
