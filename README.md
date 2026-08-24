@@ -12,7 +12,7 @@ This project analyzes daily coal stock data for Indian thermal power plants betw
 - **Efficiency Measurement** – Assess Plant Load Factor (PLF%) vs coal availability.  
 - **Indigenous vs Imported Dependency** – Evaluate reliance on domestic vs imported coal.  
 - **Forecasting & Risk Prediction** – Estimate depletion days and risks.  
-- **Transport & Sector Insights** – Study logistics and sector-level patterns.  
+- **Transport & Sector Insights** – Study logistics and sector-level patterns. 
 
 ---
 
