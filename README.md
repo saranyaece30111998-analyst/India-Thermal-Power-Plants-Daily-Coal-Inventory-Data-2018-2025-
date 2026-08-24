@@ -1,5 +1,4 @@
-# India-Thermal-Power-Plants-Daily-Coal-Inventory-Data-2018-2025-
-Here’s a polished 
+
 
 ---
 
