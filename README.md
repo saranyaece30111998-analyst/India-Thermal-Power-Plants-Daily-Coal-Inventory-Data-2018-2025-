@@ -93,5 +93,5 @@ plotly
 
 ---
 
-👉 This README is structured for GitHub or portfolio use. Would you like me to also create a **shorter executive summary version** (1–2 pages) for recruiters or portfolio highlights?
+👉 This README is structured for GitHub or portfolio use. Would you like me to also create a **shorter executive summary version*
 
