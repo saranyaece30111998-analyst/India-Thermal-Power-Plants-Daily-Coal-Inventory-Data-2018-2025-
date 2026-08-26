@@ -6,7 +6,7 @@ This project analyzes daily coal stock data for Indian thermal power plants betw
 ---
 
 ## 🎯 Objectives  
-- **Coal Supply Analysis** – Examine daily requirement, receipts, and consumption.  
+- **Coal Supply Analysis** – Examine daily requirement, receipts, and consumption 
 - **Stock Adequacy Evaluation** – Compare actual vs normative stock levels.  
 - **Critical Plant Identification** – Flag plants at risk of disruption.  
 - **Efficiency Measurement** – Assess Plant Load Factor (PLF%) vs coal availability.  
