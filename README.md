@@ -1,9 +1,6 @@
 # ⚡ India Thermal Power Plants – Daily Coal Inventory (2018–2025)
 
-## 📖 Overview  
-This project analyzes daily coal stock data for Indian thermal power plants between **2018–2025**. Coal is a critical energy resource, and monitoring its availability is essential for uninterrupted electricity generation. The notebook performs **data cleaning, transformation, feature engineering, and exploratory analysis** to highlight supply-demand imbalances, stock adequacy, and operational risks.
 
----
 
 ## 🎯 Objectives  
 - **Coal Supply Analysis** – Examine daily requirement, receipts, and consumption 
