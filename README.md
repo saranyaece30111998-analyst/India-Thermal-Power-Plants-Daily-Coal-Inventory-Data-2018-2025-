@@ -3,12 +3,7 @@
 
 
 
-## 📂 Dataset Information  
-- **Source:** India Data Portal  
-- **Location:** India  
-- **Timeline:** 2018–2025  
-- **Domain:** Daily coal stock records  
-- **Size:** ~362,000 rows, 22 columns  
+  
 
 **Key Columns:**  
 - `date`, `state_name`, `power_station_name`, `sector`, `utility`, `mode_of_transport`  
