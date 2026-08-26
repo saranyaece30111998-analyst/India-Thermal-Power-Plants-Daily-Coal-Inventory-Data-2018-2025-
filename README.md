@@ -2,16 +2,6 @@
 
 
 
-## 🎯 Objectives  
-- **Coal Supply Analysis** – Examine daily requirement, receipts, and consumption 
-- **Stock Adequacy Evaluation** – Compare actual vs normative stock levels.  
-- **Critical Plant Identification** – Flag plants at risk of disruption.  
-- **Efficiency Measurement** – Assess Plant Load Factor (PLF%) vs coal availability.  
-- **Indigenous vs Imported Dependency** – Evaluate reliance on domestic vs imported coal.  
-- **Forecasting & Risk Prediction** – Estimate depletion days and risks.  
-- **Transport & Sector Insights** – Study logistics and sector-level patterns. 
-
----
 
 ## 📂 Dataset Information  
 - **Source:** India Data Portal  
