@@ -5,11 +5,6 @@
 
   
 
-**Key Columns:**  
-- `date`, `state_name`, `power_station_name`, `sector`, `utility`, `mode_of_transport`  
-- `daily_requirement`, `daily_receipt`, `daily_consumption`  
-- `req_normative_stock`, `total_stock`, `stock_days`, `plf_percentage`  
-- `is_critical`, `remarks`  
 
 ---
 
