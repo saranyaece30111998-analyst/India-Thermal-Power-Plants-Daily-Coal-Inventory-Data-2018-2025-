@@ -1,8 +1,5 @@
 # ⚡ India Thermal Power Plants – Daily Coal Inventory (2018–2025)
 
-
----
-
 ## ⚫ Project Overview
 This Python‑based study analyzes daily coal inventory data across Indian thermal power plants (2018–2025).  
 It covers ~362 000 records and 22 variables, offering a granular view of **coal requirement, receipts, consumption, stock adequacy, and performance indicators**.  
