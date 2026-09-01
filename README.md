@@ -1,4 +1,4 @@
-# 🏭 Indian Thermal Power Plant Daily Coal Stock Inventory Analysis (2018–2025)
+### 🏭 Indian Thermal Power Plant Daily Coal Stock Inventory Analysis (2018–2025)
 
 > **Coal Stock Inventory Analysis for Energy Planning and Operational Efficiency**  
 > Comprehensive Python-based study of daily coal inventory data across Indian thermal power plants (2018–2025).  
