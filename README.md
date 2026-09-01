@@ -128,7 +128,9 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 - Objective 2: Inventory Risk Assessment
   <img width="989" height="1193" alt="image" src="https://github.com/user-attachments/assets/97bb6f12-bf89-423f-ba71-49504819ae29" />
   
-- Objective 3: Efficiency Measurement  
+- Objective 3: Efficiency Measurement
+  <img width="1076" height="1279" alt="image" src="https://github.com/user-attachments/assets/3e9e8379-6fb2-45c9-9bcd-53735d35ddf5" />
+
 - Objective 4: Inventory Fluctuations  
 - Objective 5: Regional Stock Aggregation  
 - Objective 6: Transport Insights  
