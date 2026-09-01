@@ -70,6 +70,7 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 - Source: India Data Portal  
 - Size: ~80 MB  
 - Storage: Google Drive → Imported into Google Colab  
+- <img width="1090" height="568" alt="image" src="https://github.com/user-attachments/assets/bfe543fa-d68f-4091-ba5f-9b04b7fe92a3" />
 
 ---
 
