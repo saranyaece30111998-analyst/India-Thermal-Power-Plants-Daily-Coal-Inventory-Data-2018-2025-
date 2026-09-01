@@ -175,13 +175,13 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 - **Strengthen Forecasting Models**: Implement AI-driven demand forecasting to anticipate seasonal peaks and reduce shortage-prone plants by **15–20% within 3 years**.  
 - **Diversify Transport Modes**: Reduce rail dependency (>70%) by expanding road and port logistics; aim to cut delivery delays by **20% in the short term**.  
 - **Balance Regional Supply**: Reallocate reserves to South and East zones to reduce imbalance; target a **10% increase in safe
--**Improve Plant Efficiency**: Link coal allocation to PLF% performance, ensuring deficit plants receive priority; goal to raise PLF% in shortage-prone plants by 5–7%.
+- **Improve Plant Efficiency**: Link coal allocation to PLF% performance, ensuring deficit plants receive priority; goal to raise PLF% in shortage-prone plants by 5–7%.
 
--**Build Strategic Reserves**: Establish buffer stock policies to counter long-term decline; maintain a minimum of 60M tons reserves consistently.
+- **Build Strategic Reserves**: Establish buffer stock policies to counter long-term decline; maintain a minimum of 60M tons reserves consistently.
 
--**Enhance Monitoring Dashboards**: Deploy real-time dashboards tracking stock health, transport delays, and regional distribution for proactive decision-making.
+- **Enhance Monitoring Dashboards**: Deploy real-time dashboards tracking stock health, transport delays, and regional distribution for proactive decision-making.
 
--**Increase Import Flexibility**: Plan for imports to rise from 5.6M tons to ~10M tons by 2028, but diversify sourcing to reduce dependency on single markets.
+- **Increase Import Flexibility**: Plan for imports to rise from 5.6M tons to ~10M tons by 2028, but diversify sourcing to reduce dependency on single markets.
 
 ---
 
