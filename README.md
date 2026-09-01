@@ -1,8 +1,16 @@
-# 🏭 Coal Inventory Analytics (India, 2018–2025)
+🏭 Indian Thermal Power Plant Daily Coal Stock Inventory Analysis (2018–2025)
+Comprehensive Python-based analysis of daily coal inventory data across Indian thermal power plants (2018–2025).  
+Focused on supply-demand dynamics, inventory risks, transport bottlenecks, and forecasting to support energy planning and operational efficiency.
+📑 Project Metadata
+Prepared By: Saranya
 
-> **Comprehensive Python-based analysis of daily coal inventory data across Indian thermal power plants (2018–2025).**  
-> Focused on supply-demand dynamics, inventory risks, transport bottlenecks, and forecasting to support energy planning and operational efficiency.
+Course: Programme in AI Driven Data Analytics
 
+Dataset: India thermal power plant daily coal stock inventory data
+
+Environment: Google Colab
+
+Tools Used:
 ---
 
 ## 📑 Table of Contents
