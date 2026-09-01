@@ -71,6 +71,8 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 - Size: ~80 MB  
 - Storage: Google Drive → Imported into Google Colab  
 - <img width="1090" height="568" alt="image" src="https://github.com/user-attachments/assets/bfe543fa-d68f-4091-ba5f-9b04b7fe92a3" />
+**COLUMN NAME AND THEIR DESCRIPTION**
+- <img width="1090" height="934" alt="image" src="https://github.com/user-attachments/assets/f721af7d-ad40-4f39-92e2-00600f1dda20" />
 
 ---
 
