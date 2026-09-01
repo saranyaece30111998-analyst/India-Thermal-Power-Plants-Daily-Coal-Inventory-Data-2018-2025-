@@ -114,7 +114,9 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 - Computed mean, median, mode
 - <img width="1073" height="459" alt="image" src="https://github.com/user-attachments/assets/bf524a26-84fc-45f4-9f97-665fa71e7580" />
 
-- Identified skewed distributions  
+- Identified skewed distributions
+- <img width="1090" height="571" alt="image" src="https://github.com/user-attachments/assets/88623f5b-fe1f-4e0f-b68e-df8dcf110a79" />
+
 - Highlighted supply inconsistencies  
 
 ---
