@@ -146,6 +146,8 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 ---
 
 ## 10.1 Dashboard Visualization
+<img width="1090" height="582" alt="image" src="https://github.com/user-attachments/assets/0c2b8d8b-04fe-476b-b6a6-8f9a15e78670" />
+
 - **Total Plants**: 218  
 - **Total Coal Stock**: 71.65M tons  
 - **Indigenous Stock**: 66.02M tons  
