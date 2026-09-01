@@ -122,7 +122,9 @@ Coal is a critical energy resource, and managing its stock levels is essential f
 ---
 
 ## 10. Analytical Objectives & Visual Insights
-- Objective 1: Coal Supply Analysis  
+- Objective 1: Coal Supply Analysis
+  <img width="1089" height="1088" alt="image" src="https://github.com/user-attachments/assets/9af2ddc0-6b5f-437f-b8b3-bcc998d13d04" />
+
 - Objective 2: Inventory Risk Assessment  
 - Objective 3: Efficiency Measurement  
 - Objective 4: Inventory Fluctuations  
