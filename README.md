@@ -11,7 +11,8 @@
 - **Course:** Programme in AI Driven Data Analytics  
 - **Dataset:** India thermal power plant daily coal stock inventory data  
 - **Environment:** Google Colab  
-- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **raw data set link**: [drive link](https://drive.google.com/file/d/1NjBRGeLkwbo1ZVIl2jb9a_XnB5696BSE/view?usp=sharingurl)
 ---
 
 Tools Used:
